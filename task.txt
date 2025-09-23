@@ -1,0 +1,4 @@
+take 2 numbers from user using prompt
+do all arithmetic operation
+
++,-,*,/

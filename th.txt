@@ -1,0 +1,31 @@
+2 type of programming / scripting lang are there
+1)statically typed :c,java,cpp
+2)dynmically typed :js,python
+
+
+--------------------------------------------
+to achive dynamic data over html we can use js
+------------------------------------------------
+
+we can write js in 3 ways
+external js
+internal js
+inline js
+
+we can use
+var,let,const
+
+javscript has 2 main objects
+BOM: browser object model
+DOM : document object model
+
+js engines: browser
+netscape community L:firefox spider monkey
+google chrome
+safari
+edge
+
+number
+string
+boolean
+undefine
