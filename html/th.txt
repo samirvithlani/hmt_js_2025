@@ -1,0 +1,12 @@
+LIST:
+ordered LIST :<ol>
+unordered list :<ul>
+list item : <li>
+
+ul: type
+
+
+attribute:
+attribute will give extra add on new func to your tag
+<h1> TAG
+<h1 x = 100> x -- attribute
