@@ -29,3 +29,22 @@ number
 string
 boolean
 undefine
+
+
+if(condition){
+
+}
+else{
+    
+}
+
+operators:
+unery operators :it requireds only 1 operand:
+    increment decrement
+binery operators:it requireds min 2 operand
+    arithmetic operators:+,-,*,/,%
+    logical operators: &&, ||, !
+    relational op: >,<,>=,<=,==,!=
+    asignment op : =, 
+ternery operators :it requireds only 3 operand
+    ?:
