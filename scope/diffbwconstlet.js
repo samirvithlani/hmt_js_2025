@@ -7,3 +7,10 @@ console.log("value of a = ",a)
 const pi = 3.14
 console.log("value of pi",pi)
 //pi = 3.15 // no reassign  error
+
+var p;
+let q;
+///const c;
+
+let x;
+console.log(x)

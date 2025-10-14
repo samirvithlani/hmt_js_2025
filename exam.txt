@@ -1,0 +1,37 @@
+✅ True / False (Answer in T/F)
+
+let and const are block-scoped. True
+
+Variables declared with const can’t be reassigned. rue
+
+var has block scope just like let. False
+
+
+
+A const object’s properties can be changed. False
+
+Redeclaring a var variable in the same scope is allowed. True
+
+Redeclaring a let variable in the same scope is allowed.False
+
+
+
+
+---------------------------------------
+✏️ Fill in the Blank
+
+The keyword __var_ is global-scoped, not block-scoped.
+
+let and vonst are block-scoped.
+
+Variables declared with _const__ must be assigned a value at the time of declaration.
+
+Reassigning is allowed in let but not in const
+
+Using a let variable before initialization results in a undefined
+
+Redeclaring a var variable in the same scope will not_ an error.
+
+Redeclaring a let variable in the same scope will return an error.
+
+Variables declared with const cannot be redeclared or reassigned.
