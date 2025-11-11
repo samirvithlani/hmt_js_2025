@@ -48,3 +48,20 @@ binery operators:it requireds min 2 operand
     asignment op : =, 
 ternery operators :it requireds only 3 operand
     ?:
+
+JSON: javascript object notation    
+bag wrap...
+sid
+sname
+.
+.
+.
+.
+.
+.
+.
+
+object -->json -->object,,
+json design
+
+
