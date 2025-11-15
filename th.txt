@@ -63,5 +63,15 @@ sname
 
 object -->json -->object,,
 json design
+--------------------------
+Array
+
+Array is group of  of elements:
+10 -sname --> s1s2s4s...
+100 ->
+1000000 group:
+array stores data in index 0..n
+array is dynamic
+array is mutable
 
 
