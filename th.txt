@@ -74,4 +74,39 @@ array stores data in index 0..n
 array is dynamic
 array is mutable
 
+-------------------------------------------
+functions
 
+100
+ 50 lines
+ ___________________________________________
+200
+___________________________________________
+300
+___________________________________________
+400
+___________________________________________
+500
+___________________________________________
+600
+
+                                             250
+
+wrap: function: drawLine --> 50 line
+1)reusable code
+2)managing code will be easy
+3)clean and readble code
+
+___________________________________________
+Type Of functions:
+1)pre define function : builtin function :splice,toUpperCase,trim
+2)user define function: 
+
+4 type of functions are there
+1)with return type with argument
+2)with return type without argument
+3)without return type without argument
+4)without return type with argument
+
+
+in js function can be declare using function keyword
