@@ -2,3 +2,29 @@ take 2 numbers from user using prompt
 do all arithmetic operation
 
 +,-,*,/
+
+
+
+functoin calc(op,no1,no2){
+
+//if else --> switch case..
+
+}
+
+calc("+",10,20) -->30
+calc("-,100,20)-->80
+
+
+def findMax(a,b,c){
+
+
+}
+
+
+def findMax(name1,name2){
+
+
+}
+
+
+findMax("amit","sumit")
