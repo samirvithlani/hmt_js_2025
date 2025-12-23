@@ -28,3 +28,70 @@ def findMax(name1,name2){
 
 
 findMax("amit","sumit")
+
+-------------------------------------------------------------------------------------------------------
+🔢 NUMBER ARRAY QUESTIONS (10)
+Use this array:
+const nums = [12, 5, 8, 20, 3, 15, 10, 7];
+
+1️⃣–4️⃣ MAP
+
+Use map to create a new array where each number is multiplied by 2.
+
+Use map to convert all numbers into strings.
+
+Use map to return "even" or "odd" for each number.
+
+Use map to subtract 1 from each number.
+
+5️⃣–7️⃣ FILTER
+
+Use filter to get all even numbers.
+
+Use filter to get numbers greater than 10.
+
+Use filter to get numbers divisible by 5.
+
+8️⃣–9️⃣ FIND
+
+Use find to get the first number greater than 10.
+
+Use find to get the first odd number.
+
+🔟 SORT / REVERSE
+
+Sort the array in ascending order, then reverse it to get descending order.
+
+🔤 STRING ARRAY QUESTIONS (10)
+Use this array:
+const words = ["banana", "apple", "kiwi", "mango", "orange"];
+
+1️⃣–3️⃣ MAP
+
+Use map to convert all words to uppercase.
+
+Use map to get the length of each word.
+
+Use map to add "fruit-" before each word.
+
+4️⃣–6️⃣ FILTER
+
+Use filter to get words with more than 5 characters.
+
+Use filter to get words that contain letter 'a'.
+
+Use filter to get words that start with 'm'.
+
+7️⃣–8️⃣ FIND
+
+Use find to get the first word with exactly 5 letters.
+
+Use find to get the first word containing 'o'.
+
+9️⃣ FLATMAP
+
+Use flatMap to split each word into individual characters and return a single flat array.
+
+🔟 SORT / REVERSE
+
+Sort the words alphabetically, then reverse the result.
