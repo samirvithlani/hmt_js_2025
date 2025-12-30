@@ -110,3 +110,34 @@ Type Of functions:
 
 
 in js function can be declare using function keyword
+
+JSON ARRAY:
+events:
+
+attributes:
+
+identifieres:
+<h1> : 4 identifieres
+id
+<h1 id="demo">
+name
+<h1 name="demo">
+class
+<h1 class ="demo">  : class css class
+Tag it self is identifier
+
+id: html page unique
+name : it can be duplcaite
+class it can duplicate
+tag : it can be duplicate
+
+use:
+html javascript get:
+:
+events:
+in js we have lots event
+keyboard events
+mouse events
+
+DOM: document object model
+BOm :browser object model
