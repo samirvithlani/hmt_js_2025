@@ -95,3 +95,37 @@ Use flatMap to split each word into individual characters and return a single fl
 🔟 SORT / REVERSE
 
 Sort the words alphabetically, then reverse the result.
+
+
+
+
+html
+<button> click me
+mouse enter --> click on button
+leave - click me
+
+mouse enter --> color green
+leave --> red
+
+click -->alert button clicked...
+
+
+---------------------------------------------
+button --->show text
+button -->hide text
+
+-------------------------
+
+5 images
+js file load --> random image load..
+click  ||levae,.... image random change...
+
+------------------------------------------
+
+<ul>
+<li>song 1
+<li>song 2
+<li>song 3
+
+<button>shuffle
+
