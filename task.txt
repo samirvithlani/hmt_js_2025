@@ -128,4 +128,15 @@ click  ||levae,.... image random change...
 <li>song 3
 
 <button>shuffle
+----------------------------------
+
+input firstName
+input lastName
+
+join
+virat kohli
+
+
+
+
 
