@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="inputdemo1.js"></script>
+</head>
+<body>
+    <div>
+        <label>NAME:</label>
+        <input id="name" type="text" onkeyup="getInput(event)">
+    </div>
+    <div>
+        <label>EMAIL:</label>
+        <!-- <input id="email" type="text" onkeydown="getEmailInput(event)"> -->
+         <input id="email" type="text" onkeypress="getEmailInput(event)">
+    </div>
+</body>
+</html>
