@@ -136,6 +136,12 @@ input lastName
 join
 virat kohli
 
+<input type text>
+
+onkeyup --> 
+if user press enter -->aler user has press enterd..
+
+if user esc --> remove all contentn in input
 
 
 
