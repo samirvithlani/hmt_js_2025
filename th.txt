@@ -144,3 +144,6 @@ BOm :browser object model
 
 
 eventlistners:
+
+
+javascript is by default non sync:

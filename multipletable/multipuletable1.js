@@ -1,4 +1,4 @@
-const size = 15
+const size = 15 
 const tableheader = document.getElementById("tableheader")
 
 var header = "" //""
