@@ -147,3 +147,14 @@ eventlistners:
 
 
 javascript is by default non sync:
+
+
+async await is not alternative of promise
+then(
+
+    then(
+        then(0)
+    )
+)
+
+callback hell : 0--> async await
