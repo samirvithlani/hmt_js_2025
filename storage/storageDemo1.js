@@ -30,3 +30,25 @@ document.getElementById("btn2").addEventListener("click",()=>{
     //console.log(userData.name)
 
 })
+
+//var arr = []
+var arr = localStorage.getItem("names") // string -->[] -->arr = []
+console.log(undefined)
+if(arr){
+    console.log("if..")
+    arr = JSON.parse(arr) //["raj",....]
+}
+else{
+    console.log("else..")
+    arr = []
+}
+const addData =()=>{
+
+    const name = document.getElementById("text").value //jay
+    console.log(name)
+    arr.push(name) //arr.push-[] -->["jay"]
+
+    //localStorage.setItem("names",name)
+    localStorage.setItem("names",JSON.stringify(arr)) //"["jay"]"
+
+}
